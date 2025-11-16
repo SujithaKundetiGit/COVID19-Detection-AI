@@ -5,7 +5,7 @@ pycache/
 *.pyo
 *.pyd
 .venv/
-venv/
+venv/Lib/
 env/
 .idea/
 
