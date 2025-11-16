@@ -1,0 +1,30 @@
+Python
+
+pycache/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+.idea/
+
+Operating System Files
+
+.DS_Store
+Thumbs.db
+
+TensorFlow / Keras Artifacts
+
+These files are too large (over 100MB) and should be generated, not tracked.
+
+The user can retrain the model to generate these.
+
+covid_detection_model.h5
+covid_detection_model.keras
+
+Logs and Data
+
+*.log
+data/
+datasets/
