@@ -29,8 +29,6 @@ Logs and Data
 data/
 datasets/
 
-# Ignore Python virtual environment
-venv/
 # Ignore Keras / TensorFlow model files
 *.h5
 *.keras
